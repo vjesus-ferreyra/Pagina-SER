@@ -102,6 +102,8 @@ Git trabaja de dos maneras repositorios locales y remotos, y te preguntaras ¿Qu
 
 Para poder copiar o descargar este repositorio te recomiendo estar conectado a internet y usar el siguiente comando:
 
+> Para poder saber el link del repositorio ve a la parte inferior y busca un boton de color verde o azul que tenga diga "<> code", da click en el y te mostraran varias opciones ve a la parte de clone y te debe aparecer un link; ese es el link del repositorio, copialo y pegalo junto al comando de abajo
+
 ```Bash
 git clone <link de este respositorio>
 ```
